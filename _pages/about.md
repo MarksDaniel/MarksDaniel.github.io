@@ -40,6 +40,10 @@ author_profile: true
     <h2>News</h2>
     <div class="news-list">
       <div class="news-entry">
+        <time class="news-date" datetime="2026-11">Nov 2026</time>
+        <p>I gave a talk on performance and safety guarantees for data-driven methods at the <a href="https://www.newton.ac.uk/">Isaac Newton Institute (INI)</a> in Cambridge, as part of a G-Research symposium.</p>
+      </div>
+      <div class="news-entry">
         <time class="news-date" datetime="2026-10">Oct 2026</time>
         <p>Our work on <a href="https://arxiv.org/abs/2604.18310">symmetry-induced statistic recovery in variational inference</a> has been accepted to <strong>NeurIPS 2026</strong>. I will present it in Sydney.</p>
       </div>
@@ -49,7 +53,7 @@ author_profile: true
       </div>
       <div class="news-entry">
         <time class="news-date" datetime="2026-06">Jun 2026</time>
-        <p>I received the <strong>Best Oral Presentation Award</strong> at the <a href="https://www.cs.ox.ac.uk/teaching/dphil/studentconf.html">Oxford Computer Science Conference 2026</a> for my talk on Meta-learning Generalisation Guarantees.</p>
+        <p>I received the <strong>Best Oral Presentation Award</strong> at the <a href="https://www.cs.ox.ac.uk/teaching/dphil/studentconf.html">Oxford Computer Science Conference 2026</a> for my talk on meta-learning generalisation guarantees.</p>
       </div>
     </div>
   </section>
